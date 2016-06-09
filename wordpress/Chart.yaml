@@ -1,0 +1,8 @@
+name: wordpress
+home: http://www.wordpress.org/
+version: 0.0.1
+description: WordPress is a free and open-source content management system.
+maintainers:
+  - Juan Manuel Torres <juanmanuel.torres@aventurabinaria.es>
+details:
+  WordPress is a free and open-source content management system (CMS) based on PHP and MySQL.
