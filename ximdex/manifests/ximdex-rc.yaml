@@ -23,4 +23,6 @@ spec:
           - name: XIMDEX_DB_PASSWORD
             value: root
           - name: XIMDEX_DB_HOST
-            value: 10.254.200.30
+            value: 10.254.200.30:3306
+          - name: XIMDEX_DB_NAME
+            value: ximdex
